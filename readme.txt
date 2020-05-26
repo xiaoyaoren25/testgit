@@ -4,3 +4,5 @@ cd D:
 mkdir testgit
 cd testgit
 git init
+
+test
